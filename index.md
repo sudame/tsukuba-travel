@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+# 日程
+## 2017-02-24
 
-You can use the [editor on GitHub](https://github.com/sudame/tsukuba-travel/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+□自宅  
+↓ 09:20-09:30  
+↓ シエンタ  
+■舞阪駅  
+↓ 09:38-10:47  
+↓ ＪＲ東海道本線  浜松行  
+■浜松駅  
+↓徒歩  
+□回数券ショップ  
+↓徒歩  
+■浜松駅  
+↓ 10:11-11:40  
+↓ ＪＲ新幹線ひかり460号(700系)  東京行  
+■東京駅  
+↓ 12:03-13:01  
+↓ ＪＲ上野東京ライン特別快速  土浦行  
+■荒川沖駅  
+↓  
+□ここら辺で昼食  
+↓  
+■荒川沖駅  
+↓  
+↓ 関東鉄道バス  
+□筑波大学  
+※ 15:00頃より試験教室等掲載開始なので、それくらいに着くようにつくばセンター等で調整  
+↓  
+↓関東鉄道バス  
+■荒川沖駅  
+↓    
+□荒川沖駅周辺もしくは筑波近辺で夕飯  
+↓  
+□ホテルビジネスプラザ荒川沖  
+※ チェックイン予定時刻は17:00なので、遅れる場合連絡のこと  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 2017-02-25
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+□ホテルビジネスプラザ荒川沖  
+※ 今のところ朝食付きプラン **ではない** 。当日適当に食べるか、チェックイン時に申し込むかは気分次第。  
+↓  
+■荒川沖駅西口  
+↓ 07:35-08:02  
+↓ 関東鉄道バス  
+■つくばセンター  
+↓ 随時  
+↓ 関東鉄道バス、もしくは徒歩  
+■第三エリア  
+↓  
+□筑波大学第三試験場  
+※ 9:00入室開始予定、9:30入室完了  
 
-```markdown
-Syntax highlighted code block
+> **試験**
+> 1. 英語 10:00 - 12:00
+> 2. 数学 13:15 - 15:15
+> 3. 理科 16:15 - 18:15
 
-# Header 1
-## Header 2
-### Header 3
+□筑波大学第三試験場  
+↓  
+↓  
+■第三エリア  
+↓  
+↓  
+■つくばセンター  
+↓  
+↓  
+■つくば駅  
+↓ 18:55-19:40  
+↓ つくばエクスプレス快速 秋葉原行  
+■秋葉原駅  
+↓ 19:53-19:57  
+↓ JR京浜東北線 大船行  
+■東京駅  
+↓ 21:30-22:48  
+↓ JR新幹線新幹線ひかり537号(N700系) 名古屋行  
+■浜松駅  
+↓ 22:55-23:04  
+↓ JR東海道本線 豊橋行  
+■舞阪駅  
+↓  
+↓ シエンタ  
+□自宅
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sudame/tsukuba-travel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 予算
+|種別|金額|補足|
+|:--:|--:|:--:|
+|往路費|8,960円||
+|復路費|8,960円||
+|宿泊費|5,700円||
+|食費|4,000円|昼×2, 夜×2, 朝×1|
+|予備|1,0000円||
+|**合計**|**37,620円**|　|
